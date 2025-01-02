@@ -1,9 +1,9 @@
 # Assignment No. 3 Submission
 
-**Student Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**Course:** [Course Name]  
-**Submission Date:** 27/1/2025
+**Student Name:** Adir Serruya
+**Student ID:** 316472455  
+**Course:** Machine Learning
+**Submission Date:** 2/1/2025
 
 ---
 
@@ -13,7 +13,7 @@
 
 This repository contains the extended implementation of the neural network with two hidden layers as per Assignment No. 3.
 
-- **GitHub Link:** [https://github.com/your_username/your_repository_name/tree/main/ch11_two_hidden](https://github.com/your_username/your_repository_name/tree/main/ch11_two_hidden)
+- **GitHub Link:** [https://github.com/Adirser/MLCourseUniv/tree/main/HW3%20-%20NN](https://github.com/Adirser/MLCourseUniv/tree/main/HW3%20-%20NN)
 
 ### **2. Original Single Hidden Layer Neural Network**
 
