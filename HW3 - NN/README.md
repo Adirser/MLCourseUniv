@@ -26,8 +26,3 @@ This repository contains the original implementation of the neural network with 
 This repository contains the fully connected Artificial Neural Network (ANN) implemented using PyTorch for performance comparison.
 
 - **GitHub Link:** [https://github.com/Adirser/MLCourseUniv/blob/main/HW3%20-%20NN/ch11_revised.ipynb](https://github.com/Adirser/MLCourseUniv/blob/main/HW3%20-%20NN/ch11_revised.ipynb)
-
----
-
-## **Project Structure**
-
